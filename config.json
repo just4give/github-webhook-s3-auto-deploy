@@ -1,0 +1,12 @@
+{
+  "aws_access_key_id":"xxxxxx",
+  "aws_access_key_secret":"xxxxxx",
+  "bucket":"xxxxxx",
+  "bucket_sub_folder":"test-sync/",
+  "git_repo_url":"https://github.com/xxxx/xxx.git",
+  "folder_to_sync":"client",
+  "credential":{
+    "username":"xxx",
+    "password":"xxx"
+  }
+}
